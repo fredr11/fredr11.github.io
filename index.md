@@ -3,8 +3,6 @@ layout: page
 permalink: /
 ---
 
-# Fred Rinaldo
-
 Business Analytics graduate with experience in SQL, Power BI, data modeling, reporting, and analytics engineering.
 
 My portfolio showcases end-to-end analytics projects covering data preparation, modeling, visualization, forecasting, and business intelligence.
