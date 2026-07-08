@@ -1,15 +1,3 @@
----
-layout: home
----
-
-# Fred Rinaldo
-
-Business Analytics graduate with experience in SQL, Power BI, data modeling, reporting, and analytics engineering.
-
-My background combines business operations, finance, and analytics, enabling me to translate complex datasets into actionable insights that support strategic decision-making.
-
----
-
 # Featured Projects
 
 ---
@@ -96,37 +84,17 @@ Explored mortgage portfolio performance, customer behaviour, and lending trends 
 
 🔗 **Repository:** https://github.com/fredr11/Mortgage_Customer_Analytics_Tableau
 
----
 
-# Professional Experience
-
-### NDIS Funding Officer | Workpower
-
-Alongside finance responsibilities, I have designed and developed reporting and analytics solutions using Azure SQL, Power BI, Power Query, and Excel to improve operational visibility and support business decision-making.
-
-Key areas include:
-
-- Data transformation and reporting automation
-- Dashboard development
-- KPI tracking
-- Financial and operational analytics
-- Stakeholder reporting
 
 ---
 
-# Education
+## About me
 
-### Graduate Certificate in Business Analytics
-Deakin University
+Business Analytics graduate with experience in SQL, Power BI, data modeling, reporting, and analytics engineering.
 
-### Data Analytics Bootcamp
-North Metropolitan TAFE
+My background combines business operations, finance, and analytics, enabling me to translate complex datasets into actionable insights that support strategic decision-making.
 
-### Certificate IV in Accounting & Bookkeeping
-
----
-
-# Contact
+## Contact
 
 ### GitHub
 https://github.com/fredr11
