@@ -1,5 +1,3 @@
-# Analytics Projects
-
 ## NDIS Demand, Funding & Service Planning Analytics
 
 **SQL • Power BI • DAX • Data Modeling • ETL**
