@@ -1,10 +1,9 @@
 ---
-layout: page
-title: Portfolio
+layout: default
 permalink: /
 ---
 
-## Data Analytics Portfolio
+# Fred Rinaldo
 
 Business Analytics graduate with experience in SQL, Power BI, data modeling, reporting, and analytics engineering.
 
@@ -57,6 +56,7 @@ Analyzed mortgage portfolio performance, customer segmentation, and lending tren
 # Technical Skills
 
 ### Analytics & BI
+
 - SQL
 - Power BI
 - DAX
@@ -65,6 +65,7 @@ Analyzed mortgage portfolio performance, customer segmentation, and lending tren
 - KPI Development
 
 ### Data Engineering
+
 - ETL
 - Data Cleaning
 - Data Transformation
@@ -72,6 +73,7 @@ Analyzed mortgage portfolio performance, customer segmentation, and lending tren
 - Data Modeling
 
 ### Programming
+
 - SQL Server
 - Azure SQL
 - Python
@@ -83,7 +85,9 @@ Analyzed mortgage portfolio performance, customer segmentation, and lending tren
 # Contact
 
 ### GitHub
+
 https://github.com/fredr11
 
 ### LinkedIn
+
 YOUR_LINKEDIN_URL
