@@ -1,13 +1,10 @@
 title: Fred Rinaldo
 description: Business Analytics | SQL | Power BI | Data Analysis
 
-theme: minima
+remote_theme: "jekyll/minima"
 
 minima:
   skin: auto
-
-header_pages:
-  - index.md
 
 show_excerpts: false
 
