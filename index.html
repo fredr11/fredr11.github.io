@@ -40,7 +40,7 @@ body {
     margin-top: 12px;
     font-size: 1.15rem;
     color: #666;
-    max-width: 600px;
+    max-width: 100%;
     line-height: 1.6;
 }
 
@@ -116,10 +116,14 @@ body {
         <h1>Fred Rinaldo</h1>
 
         <p>
-            Business Analytics graduate with hands-on experience in SQL,
-            Power BI, data modeling, and analytics. Building practical
-            solutions that transform complex data into actionable insights.
+            Business Analytics graduate specializing in SQL, Power BI, Tableau, and data visualization.
+            Passionate about transforming complex datasets into clear insights that support better business decisions.
         </p>
+
+        <div class="socials">
+            <a href="https://github.com/fredr11" target="_blank">GitHub</a>
+            <a href="https://www.linkedin.com/in/fred-rinaldo/" target="_blank">LinkedIn</a>
+        </div>
     </div>
 
     <div class="section-title">
@@ -132,15 +136,15 @@ body {
             <h2>NDIS Demand, Funding & Service Planning Analytics</h2>
 
             <p>
-                Integrated 10 government datasets to analyze participant growth,
-                funding allocation, and emerging service demand across Western Australia.
+                Integrated 10 government datasets to analyze participant growth, funding allocation,
+                and emerging service demand across Western Australia.
             </p>
 
             <div class="tags">
                 SQL · Power BI · DAX · Data Modeling
             </div>
 
-            <a href="https://github.com/fredr11/NDIS-Project_SQL-PowerBI">
+            <a href="https://github.com/fredr11/NDIS_Funding_SQL_PowerBI" target="_blank">
                 View Project →
             </a>
         </div>
@@ -149,16 +153,33 @@ body {
             <h2>Customer Retention & Campaign Analysis</h2>
 
             <p>
-                SQL-based analysis of customer churn and healthcare campaign
-                engagement to uncover retention drivers and business opportunities.
+                SQL-based analysis of patient retention and healthcare campaign engagement,
+                identifying churn patterns and key business opportunities.
             </p>
 
             <div class="tags">
                 SQL · Data Cleaning · Analytics
             </div>
 
-            <a href="#">
-                Coming Soon
+            <a href="https://github.com/fredr11/Customer_Retention_and_Campaign_Analysis_SQL" target="_blank">
+                View Project →
+            </a>
+        </div>
+
+        <div class="project">
+            <h2>Mortgage Customer Analytics Dashboard</h2>
+
+            <p>
+                Interactive Tableau dashboard exploring mortgage customer behavior,
+                portfolio performance, and lending risk indicators.
+            </p>
+
+            <div class="tags">
+                Tableau · Data Visualization · Business Intelligence
+            </div>
+
+            <a href="https://github.com/fredr11/Mortgage_Customer_Analytics_Tableau" target="_blank">
+                View Project →
             </a>
         </div>
 
@@ -166,26 +187,39 @@ body {
             <h2>Red Zone Road Safety Prediction</h2>
 
             <p>
-                Predictive modeling project identifying high-risk road segments
-                using machine learning and geospatial data.
+                Machine learning project predicting high-risk road segments using historical
+                accident data to support preventative safety planning.
             </p>
 
             <div class="tags">
-                Python · Machine Learning · Forecasting
+                Python · Machine Learning · Predictive Analytics
             </div>
 
-            <a href="#">
-                Coming Soon
+            <a href="https://github.com/fredr11/Red_Zone_Prediction_Python" target="_blank">
+                View Project →
             </a>
         </div>
 
-    </div>
-
-    <div class="footer">
-        GitHub: fredr11
     </div>
 
 </div>
 
 </body>
 </html>
+
+.socials {
+    margin-top: 24px;
+    display: flex;
+    gap: 20px;
+}
+
+.socials a {
+    text-decoration: none;
+    color: #666;
+    font-weight: 500;
+}
+
+.socials a:hover {
+    color: #111;
+}
+
