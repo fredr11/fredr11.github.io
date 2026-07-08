@@ -1,16 +1,24 @@
+---
+layout: page
+title: Portfolio
+permalink: /
+---
+
+## Data Analytics Portfolio
+
+Business Analytics graduate with experience in SQL, Power BI, data modeling, reporting, and analytics engineering.
+
+My portfolio showcases end-to-end analytics projects covering data preparation, modeling, visualization, forecasting, and business intelligence.
+
+---
+
+# Featured Projects
+
 ## 🏥 NDIS Demand, Funding & Service Planning Analytics
 
-**`SQL` • `Power BI` • `DAX` • `Data Modeling` • `ETL` • `Business Intelligence`**
+**SQL • Power BI • DAX • Data Modeling • ETL**
 
 Developed a SQL and Power BI analytics solution that identified regions where NDIS participant growth outpaced population growth, highlighting future service demand hotspots.
-
-### Key Highlights
-
-- Integrated 10 public government datasets
-- Built end-to-end SQL transformation workflows
-- Created interactive Power BI dashboards
-- Analyzed participant growth, funding allocation, and geographic demand
-- Generated insights to support service planning and resource allocation
 
 🔗 **Repository:** https://github.com/fredr11/NDIS-Project_SQL-PowerBI
 
@@ -18,23 +26,11 @@ Developed a SQL and Power BI analytics solution that identified regions where ND
 
 ## ❤️ Customer Retention & Campaign Analysis
 
-**SQL • Data Modeling • Customer Analytics**
+**SQL • Customer Analytics • Data Modeling**
 
-Analyzed patient retention, churn behaviour, and healthcare campaign performance using SQL-based analytical workflows to identify opportunities for improved engagement and retention.
+Analyzed patient retention, churn behaviour, and healthcare campaign performance to identify opportunities for improved engagement and retention.
 
-### Key Highlights
-
-- Customer churn analysis
-- Campaign performance measurement
-- KPI development
-- Multi-table SQL analysis
-- Business-focused recommendations
-
-### Skills Demonstrated
-
-`SQL` `Customer Analytics` `Data Cleaning` `Data Modeling` `Business Intelligence`
-
-🔗 **Repository:** https://github.com/fredr11/Customer_Retention_and_Campaign_Analysis_SQL
+🔗 **Repository:** REPOSITORY_LINK
 
 ---
 
@@ -42,21 +38,9 @@ Analyzed patient retention, churn behaviour, and healthcare campaign performance
 
 **Python • Machine Learning • Predictive Analytics**
 
-Developed predictive models to identify high-risk road segments and support proactive road safety interventions using historical accident data.
+Developed predictive models to identify high-risk road segments and support proactive road safety interventions.
 
-### Key Highlights
-
-- Machine learning modelling
-- Feature engineering
-- Predictive analytics
-- Statistical analysis
-- Model evaluation
-
-### Skills Demonstrated
-
-`Python` `Machine Learning` `Predictive Analytics` `Statistics` `Data Science`
-
-🔗 **Repository:** https://github.com/fredr11/Red_Zone_Prediction_Python
+🔗 **Repository:** REPOSITORY_LINK
 
 ---
 
@@ -64,36 +48,42 @@ Developed predictive models to identify high-risk road segments and support proa
 
 **SQL • Power BI • Financial Analytics**
 
-Explored mortgage portfolio performance, customer behaviour, and lending trends through interactive dashboards and business-focused analysis.
+Analyzed mortgage portfolio performance, customer segmentation, and lending trends through interactive dashboards and business-focused reporting.
 
-### Key Highlights
-
-- Financial analytics
-- Customer segmentation
-- Portfolio performance analysis
-- Dashboard development
-- Executive reporting
-
-### Skills Demonstrated
-
-`SQL` `Power BI` `Financial Analytics` `Data Visualization` `Business Intelligence`
-
-🔗 **Repository:** https://github.com/fredr11/Mortgage_Customer_Analytics_Tableau
-
-
+🔗 **Repository:** REPOSITORY_LINK
 
 ---
 
-## About me
+# Technical Skills
 
-Business Analytics graduate with experience in SQL, Power BI, data modeling, reporting, and analytics engineering.
+### Analytics & BI
+- SQL
+- Power BI
+- DAX
+- Tableau
+- Data Visualization
+- KPI Development
 
-My background combines business operations, finance, and analytics, enabling me to translate complex datasets into actionable insights that support strategic decision-making.
+### Data Engineering
+- ETL
+- Data Cleaning
+- Data Transformation
+- Data Validation
+- Data Modeling
 
-## Contact
+### Programming
+- SQL Server
+- Azure SQL
+- Python
+- Excel
+- VBA
+
+---
+
+# Contact
 
 ### GitHub
 https://github.com/fredr11
 
 ### LinkedIn
-https://www.linkedin.com/in/fred-rinaldo/
+YOUR_LINKEDIN_URL
